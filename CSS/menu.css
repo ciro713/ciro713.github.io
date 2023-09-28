@@ -1,0 +1,45 @@
+html,body{
+    background-image: url(IMG/fondo.jpg);
+}
+
+header {
+	background-color: #00000000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+    box-shadow: 15px 15px 15px rgba(0,0,0,0.3);
+   
+}
+
+.logo {
+	height: 7%;
+	width: 7%;
+	margin-left: 75%;
+	margin-top: -78px;
+}
+
+.cuerpo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 150px;
+    margin: 50px;
+}
+
+.imagen1{
+    margin-top: 150px;
+    translate: 20px;
+}
+
+.imagen2{
+    margin-top: 100px;
+    translate: 20px;
+}
+
+.imagen3{
+    margin-top: 50px;
+    translate: 20px;
+}

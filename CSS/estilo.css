@@ -1,0 +1,81 @@
+body {
+    background-image: url("IMG/FONDO.jpg");
+    width: 100%;
+    height: 100%;
+
+
+}
+header {
+	background-color: #00000000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+    box-shadow: 15px 15px 15px rgba(0,0,0,0.3);
+   
+}
+
+.logo {
+	height: 7%;
+	width: 7%;
+	margin-left: 75%;
+	margin-top: -78px;
+}
+
+main {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.CAMPEONES {
+	background-color: #2e2b2bd2;
+	border: 1px solid #2e2b2be8;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+	margin: 20px;
+	padding: 17px;
+	text-align: center;
+	width: 300px;
+}
+
+.CAMPEONES img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	object-fit: cover;
+	margin-bottom: 20px;
+}
+
+.CAMPEONES h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+    color: #000000;
+}
+
+.CAMPEONES p {
+	font-size: 16px;
+	line-height: 1.5;
+    color: white;
+}
+
+footer {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+    position: relative;
+    
+}
+
+.button {
+	background-color: #ffffffd2;
+	border: none;
+	color: rgba(255, 255, 255, 0.706);
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	border-radius: 13px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+	margin-bottom: 10px;
+  }
+ 
